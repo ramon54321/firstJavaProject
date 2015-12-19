@@ -1,0 +1,8 @@
+/**
+ * Created by ramon on 19.12.2015.
+ */
+public class program {
+    public static void main(String args[]){
+        System.out.println("Hello, this is printed from the program.");
+    }
+}
