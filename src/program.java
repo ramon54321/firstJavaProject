@@ -7,3 +7,4 @@ public class program {
         System.out.println("We expanded the program now, adding this line from a new project folder.");
     }
 }
+hello
